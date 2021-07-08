@@ -1,0 +1,22 @@
+{
+  "name": "Amanda",
+  "version": "0.1.0",
+  "summary": "A short description of Amanda.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mrzhl/Amanda",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mrzhl": "554087121@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/mrzhl/Amanda.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Amanda/Classes/**/*"
+}

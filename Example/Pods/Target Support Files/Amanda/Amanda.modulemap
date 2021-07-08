@@ -1,0 +1,6 @@
+framework module Amanda {
+  umbrella header "Amanda-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - Amanda (0.1.0)
+
+DEPENDENCIES:
+  - Amanda (from `../`)
+
+EXTERNAL SOURCES:
+  Amanda:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Amanda: 404492234f6dd64a60333cd3c30a28657393dafa
+
+PODFILE CHECKSUM: 1f826cad8b0d0dd2a56001c951839f4f46df70a2
+
+COCOAPODS: 1.10.1
